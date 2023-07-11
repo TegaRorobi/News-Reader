@@ -1,0 +1,4 @@
+pyttsx3==2.90
+beautifulsoup4==4.12.2
+requests==2.30.0
+lxml==4.9.2

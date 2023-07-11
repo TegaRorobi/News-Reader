@@ -1,0 +1,5 @@
+Hello User!
+I am a news reader developed with the python requests module to get the latest tech gist,
+and a python text-to-speech module : pyttsx3, as well as the beautiful soup module to parse the text.
+I hope you enjoy the readings. Don't forget to star the project if you do.
+Okay now that's said, here goes...
